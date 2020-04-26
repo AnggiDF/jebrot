@@ -1,1 +1,2 @@
 coba terus jangan pantang menyerah
+gimana caranya untuk menghapus ketikan ketika sudah terlanjur dibentuk git?
